@@ -103,5 +103,6 @@ export let cats = [
     'https://media.giphy.com/media/K1tgb1IUeBOgw/giphy.gif',
     'https://media.giphy.com/media/12ELmx0C4EFKcE/giphy.gif',
     'https://media.giphy.com/media/CF93EZqOxjdHG/giphy.gif',
-    'https://media.giphy.com/media/EE185t7OeMbTy/giphy.gif'
+    'https://media.giphy.com/media/EE185t7OeMbTy/giphy.gif',
+    'https://giphy.com/gifs/SJk9xTbxcg0DFDs89d'
 ];
