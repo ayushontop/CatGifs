@@ -92,6 +92,8 @@ export let cats = [
     'https://media.giphy.com/media/q1MeAPDDMb43K/giphy.gif',
     'https://media.giphy.com/media/12PA1eI8FBqEBa/giphy.gif',
     'https://i.imgur.com/HvdM0WJ.gif',
+    'https://media.giphy.com/media/12PA1eI8FBqEBa/giphy.gif',
+    'https://media1.tenor.com/images/34c89435b2d4fdf7eda92070013058d5/tenor.gif',
     'https://media.giphy.com/media/EtUPIzT4rM8RmdLfHG/giphy.gif',
     'https://media.giphy.com/media/26FPvntWVkwaRWgXS/giphy.gif',
     'https://media.giphy.com/media/OmK8lulOMQ9XO/giphy.gif',
